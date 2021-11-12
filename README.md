@@ -26,7 +26,6 @@ Hola, mi nombre es Santiago Salcedo Camacho, soy un joven apasionado por la tecn
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img height="20" src="https://lh3.googleusercontent.com/proxy/4evs_SWPZRCMjK9NuI4Zt2v7qnJK9DRUh5bsUPiQtKGwRTwDiauVDA9GIZ4jXM4OelqSKqD4CI64LSv3sURFSE_15eQh_jDdryC5MlaNfclc4SyKMQ" ></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img height "20" src="https://expressjs.com/images/express-facebook-share.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" /></code>
