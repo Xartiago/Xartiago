@@ -9,14 +9,14 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=xartiago)
 
 <br />
-Hola, mi nombre es Santiago Salcedo Camacho, soy un joven apasionado por la tecnologia, con muchas ideas y metas en la cabeza que quiero y voy a poner en acción, actualmente me desempeño mejor desarrollando para web con las tecnologias que aprendi en el bootcamp de Soy Henry. En este me permitieron mejorar mis habilidades blandas y conocer a profundidad el lenguaje de JS el cual tiene sus peculiaridades e incognitas que lo hacen que le tenga un cariño por encima de otros lenguajes, no obstante siempre he sido un entusiasta en aprender cosas nuevas y aplicar la herramienta idonea para un proyecto que la requiera.
+Hola, mi nombre es Santiago Salcedo Camacho, soy un joven apasionado por la tecnologia, con muchas ideas y metas en la cabeza que quiero y voy a poner en acción, actualmente me desempeño mejor desarrollando para web con las tecnologias que aprendi en el bootcamp de Soy Henry. En este me permitieron mejorar mis habilidades blandas y conocer a profundidad el lenguaje de JavaScript el cual tiene sus peculiaridades e incognitas que lo hacen que le tenga un cariño por encima de otros lenguajes, no obstante siempre he sido un entusiasta en aprender cosas nuevas y aplicar la herramienta idonea para un proyecto que la requiera.
 <br />
 <br />
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Correo de contacto, [email](santisalxe@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 Vamos a hablar!
 
 **languages and tools:**  
 
