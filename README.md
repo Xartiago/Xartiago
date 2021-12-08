@@ -13,9 +13,11 @@ Hola, mi nombre es Santiago Salcedo Camacho, soy un joven apasionado por la tecn
 <br />
 <br />
 
+Hi, my name is Santiago Salcedo Camacho, im a young passionate for technology, with many ideas and goals that i going to make real, actually i feel more comfortable developing for web with the technologies that i learned in the fullstack bootcamp called Henry (Argentinian Bootcamp), In it they teach me all the technologies necessary to develop a web and improve it my soft skills, JavaScript has been the main lenguage that we use almost everyday and this become it that feel me lovely this language, nevertheless always ive been an enthusiast to learn the right tool for the project that need it.
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Correo de contacto, [email](santisalxe@gmail.com) :)
+- 💼 Correo de contacto, santisalxe@gmail.com :)
 - 💬 Vamos a hablar!
 
 **languages and tools:**  
