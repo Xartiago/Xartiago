@@ -20,7 +20,7 @@ Hi, my name is Santiago Salcedo Camacho, im a young passionate for technology, w
 - 💬 Lets talk !
 
 **Languages and tools:**  
-<div style='display:flex' >
+<div style='display:flex; width: 100%; justify-content: center; align-items: center' >
   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt='html5' />
   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt='css3' />
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt='JavaScript' />
